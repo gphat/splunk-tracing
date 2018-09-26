@@ -1,0 +1,10 @@
+<dashboard script="tracing.js" stylesheet="tracing.css">
+  <label>Trace</label>
+  <description>A Trace!</description>
+  <row>
+    <html>
+        <div id="chart"></div>
+        <div id="current"></div>
+    </html>
+  </row>
+</dashboard>
